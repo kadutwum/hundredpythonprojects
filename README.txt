@@ -1,0 +1,1 @@
+I am learning python and I will like to keep track of the first hundred projects I complete in this repo. When I say projects, I am not thinking of anything big. Rather something small that allows me to practice the python concepts I am learning about.My hope is to complete this in hundred days.
