@@ -1,0 +1,23 @@
+item_1 = input("what is the first item in your basket? ")
+price_1 = float(input("what is the price of this? "))
+item_2 = input("what is the second item in your basket? ")
+price_2 = float(input("what is the price of this? " ))
+item_3 = input("what is the third item in your basket? ")
+price_3 = float(input("what is the price of this? "))
+total = price_1 + price_2 + price_3
+message ="Thank for shopping with us."
+
+print("*" * 50)
+print("Python Academy, Inc. ")
+print("1502 Somewhere Ave.\nCityName, State  ")
+print("=" * 50)
+print("Product Name \t\t Product Type")
+print(item_1 + "\t\t\t $"+ str(price_1))
+print(item_2 + "\t\t\t $"+ str(price_2))
+print(item_3 + "\t\t\t $"+ str(price_3))
+print("=" * 50)
+print("\t\t\t Total")
+print("\t\t\t $" +  str(total))
+print("=" * 50)
+print(message )
+print("*" * 50)
